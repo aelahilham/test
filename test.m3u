@@ -1,0 +1,218 @@
+#EXTM3U url-tvg="" refresh="1"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+#EXTINF:-1 tvg-name="TVRI MAXSTREAM" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",TVRI MAXSTREAM
+https://tencent-css.byteplaycdn.com/88ee00d7363307d0bc16a4c7388cd443/6A4C8FC2/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+#EXTINF:-1 tvg-name="SPORTLIVE" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",SPORTLIVE
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+#EXTINF:-1 tvg-name="FOX 4K" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FOX 4K
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/tly0swvknd/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
+#EXTINF:-1 tvg-name="Dsports 2" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Dsports 2
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+#EXTINF:-1 tvg-name="ITV 4" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",ITV 4
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+#EXTINF:-1 tvg-name="NBC Universo" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",NBC Universo
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+#EXTINF:-1 tvg-name="SporTV 2 BR" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",SporTV 2 BR
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTINF:-1 tvg-name="SporTV 3 BR" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",SporTV 3 BR
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+#EXTINF:-1 tvg-name="Tipik FR" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Tipik FR
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+#EXTINF:-1 tvg-name="VRT 1" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",VRT 1
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#EXTINF:-1 tvg-name="FIFA+" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FIFA+
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/53d8e4de-a596-4d9f-898e-6a84c203d7dc/1.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#EXTINF:-1 tvg-name="GOLIVE" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",GOLIVE
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+#EXTINF:-1 tvg-name="FOX" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FOX
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 tvg-name="FOX ONE" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FOX ONE
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Fox Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93bf10f6398139ff9bf0f28c641fd371:9945fc9d36616ec453f3942b45f196c4
+#EXTINF:-1 tvg-name="Telemundo" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Telemundo
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9696c2f12e487aafe1dc96d16d0db658:159fd5dc3b0d9e0d75f856e95e225801
+#EXTINF:-1 tvg-name="Vix Mundial 95" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Vix Mundial 95
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#EXTINF:-1 tvg-name="Ace TV" group-title="SPORTS" tvg-logo="https://cdn.phototourl.com/free/2026-06-16-61bd9682-9061-4d7f-9227-a2e43d3aa81b.png",Ace TV
+https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTINF:-1 tvg-name="BeIN Sports - beIN ENGLISH 1" group-title="SPORTS" tvg-logo="https://i.ibb.co/TWFK1xM/reduced-20240206-122950.jpg",BeIN Sports - beIN ENGLISH 1
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:-1 tvg-name="BeIN Sports - beIN ENGLISH 2" group-title="SPORTS" tvg-logo="https://i.ibb.co/TWFK1xM/reduced-20240206-122950.jpg",BeIN Sports - beIN ENGLISH 2
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 tvg-name="BeIN Sports - beIN ENGLISH 3" group-title="SPORTS" tvg-logo="https://i.ibb.co/TWFK1xM/reduced-20240206-122950.jpg",BeIN Sports - beIN ENGLISH 3
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#EXTINF:-1 tvg-name="FOX Sports - FOX SPORTS 1" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FOX Sports - FOX SPORTS 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f
+#EXTINF:-1 tvg-name="FIFA+ SPORTS" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",FIFA+ SPORTS
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.2
+#EXTINF:-1 tvg-name="FIFA+" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsby7qpHBWAQV1GlpzJWzSmRDO2tTpxGx0Gg&usqp=CAU",FIFA+
+https://2269f743.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#EXTINF:-1 tvg-name="TVRI SPORT" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",TVRI SPORT
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#EXTINF:-1 tvg-name="Telemundo 1" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Telemundo 1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+#EXTINF:-1 tvg-name="Dsports+" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Dsports+
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-name="Joj sport2" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",Joj sport2
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+#EXTINF:-1 tvg-name="TUDN SPORTS" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",TUDN SPORTS
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#EXTINF:-1 tvg-name="4K" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=OTT Navigator/1.6.9.1 (Linux;Android 11)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-name="CT SPORT" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",CT SPORT
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 16; SM-F936B Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0 (Linux; U; Android 16; SM-F936B Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-name="TRT TV" group-title="World Cup TV 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f64bc1250131057.6a17b080da2ef.png",TRT TV
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1440.m3u8
+
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#EXTVLCOPT:http-referrer=https://tructiep.bonglau.live/
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)&Referer=https://tructiep.bonglau.live/&Origin=https://tructiep.bonglau.live/
+#EXTINF:-1 tvg-name="Volleball" group-title="VOLLEBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6BB7PO9_Tins87JOE7pxB2Hji1ppnXbaQKbIMTXUag&s=10",Volleball
+https://stabulonkortu.pages.dev/api/a1.m3u8
+
