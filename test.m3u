@@ -5,3 +5,10 @@
 #KODIPROP:license_key=https://ayomalingto.lol/clearkey.php?key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
 #EXTVLCOPT:http-user-agent=okhttp/4.9.2
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd
+
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/images/channels/image_ch_discoveryasia.png",Discovery Asia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5b2df8e974045e49d43687eba25045e:22fc1a26353d642bcf3b8a055e08543d
+https://cdn08jtedge.indihometv.com/dass/134/discoveryasia/manifest.mpd
